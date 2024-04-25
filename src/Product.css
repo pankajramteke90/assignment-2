@@ -1,0 +1,29 @@
+.card{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    padding: 10px;
+    margin: 20px;
+}
+.product-button {
+  margin: 40px;
+  display: flex;
+  align-items: center;
+}
+
+.product-card {
+  width: 18rem;
+  padding: 10px;
+  margin: 20px;
+  height: 95%;
+}
+
+.product-edit-button {
+  margin: 10px 10px;
+  padding: 5px 10px;
+  background-color: blue;
+}
+
+.product-delete-button {
+  margin: 10px 10px;
+  background-color: red;
+}
